@@ -6,8 +6,12 @@ public class Test {
 		System.out.println("ckemi");
 
 		System.out.println("si je");
+
 		
 		System.out.println("Mire jam mire");
+
+		System.out.println("ku je ");
+
 
 	}
 
